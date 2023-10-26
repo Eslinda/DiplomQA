@@ -25,6 +25,7 @@
 Выполните локально консольную команду allure serve, находясь на уровень выше каталога allure-results, для визуализации отчета.
 
 ### Документация
+* [План тестирования](https://github.com/Eslinda/DiplomQA/blob/main/Plan.md)
 * [Чек-лист](https://github.com/Eslinda/DiplomQA/blob/main/Check.xlsx)
 * [Тест-кейсы](https://github.com/Eslinda/DiplomQA/blob/main/Cases.xlsx)
 * [Результаты автоматизированного тестирования - allure-results](https://github.com/Eslinda/DiplomQA/blob/main/allure-results.zip)
